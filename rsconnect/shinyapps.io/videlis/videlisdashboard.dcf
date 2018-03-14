@@ -1,0 +1,12 @@
+name: videlisdashboard
+title: videlisdashboard
+username:
+account: videlis
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 299423
+bundleId: 1268484
+url: https://videlis.shinyapps.io/videlisdashboard/
+when: 1521042561.64739
+asMultiple: FALSE
+asStatic: FALSE
